@@ -1,0 +1,18 @@
+{
+  "name": "busqueda-indexada",
+  "version": "1.0.0",
+  "description": "sistema de busqueda indexada",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
